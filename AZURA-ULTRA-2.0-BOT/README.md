@@ -1,105 +1,116 @@
-# 🌟 𝐀𝐙𝐔𝐑𝐀 𝐔𝐋𝐓𝐑𝐀 𝟐.𝟎 𝐁𝐎𝐓 🌟  
-🔥 **El bot definitivo para grupos de WhatsApp con sistema RPG, administración avanzada y más.**  
+# 🐶 PerroBot-MD 🐶
 
-≪━─━─━─━─◈─━─━─━─━≫  
-✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
-≪━─━─━─━─◈─━─━─━─━≫  
+🔥 El mejor compañero perruno para grupos de WhatsApp: con juegos, moderación y más.
 
-<p align="center">
-  <img src="https://i.ibb.co/HmG6JZX/2e9a0ebe897b.jpg" alt="Azura Ultra 2.0 Bot" width="500"/>
-</p>
-
-≪━─━─━─━─◈─━─━─━─━≫  
-✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
-≪━─━─━─━─◈─━─━─━─━≫  
-
-## 🚀 **¿Qué es Azura Ultra 2.0?**  
-Azura Ultra 2.0 es un bot **potente y multifuncional** diseñado para mejorar la experiencia en grupos de WhatsApp.  
-Incluye **un sistema RPG**, herramientas de **moderación avanzada**, **minijuegos**, **descargas** y mucho más.  
-
-🌟 **𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥𝐞𝐬:**  
-
-⊱⋅ ──────────── ⋅⊰  
-🎮 **Sistema RPG Completo** 🏆  
-✔️ **Regístrate** con `.rpg [nombre] [edad]`  
-✔️ **Compra personajes y mascotas** 🐾  
-✔️ **Participa en batallas** ⚔️  
-✔️ **Sube de nivel junto a tu equipo** 📈  
-✔️ **Explora comandos RPG con** `.menurpg`  
-
-⊱⋅ ──────────── ⋅⊰  
-🤖 **Funciones de Grupo** 🏴‍☠️  
-✔️ **Moderación avanzada** 🔨  
-✔️ **Minijuegos y entretenimiento** 🎮  
-✔️ **Descargas rápidas** 📲  
-✔️ **Descubre todo en `.menugrupo`**  
-
-⊱⋅ ──────────── ⋅⊰  
-📜 **Comandos principales**  
-🛠️ **Menú general:** `.menu`  
-🎭 **Menú RPG:** `.menurpg`  
-🏴‍☠️ **Menú de grupo:** `.menugrupo`  
-
-⊱⋅ ──────────── ⋅⊰  
-
-# 🔥 **Instalación en Sky Ultra Plus** 🔥  
-
-🌐 **Hosting oficial recomendado:**  
+≪━─━─━─━─🐾─━─━─━─━≫
+🐕 » 🦴 « 🐩 » 🐶 « 🐕 » 🦴 « 🐩
+≪━─━─━─━─🐾─━─━─━─━≫
 
 <p align="center">
-  <a href="https://panel.skyultraplus.com">
-    <img src="https://cdn.dorratz.com/files/1742239358886.jpg" alt="Sky Ultra Plus Hosting" width="500"/>
-  </a>
+  <img src="https://i.postimg.cc/FHyQjzY4/4-sin-t-tulo-20250331223051.png" alt="PerroBot-MD" width="500"/>
 </p>
 
-📌 **Sky Ultra Plus** es el hosting optimizado para Azura Ultra 2.0. Algunas funciones del bot podrían no funcionar correctamente en otros hostings.  
+≪━─━─━─━─🐾─━─━─━─━≫
+🐕 » 🦴 « 🐩 » 🐶 « 🐕 » 🦴 « 🐩
+≪━─━─━─━─🐾─━─━─━─━≫
 
-🔗 **Accede al panel:**  
-🔹 **Panel:** [https://panel.skyultraplus.com](https://panel.skyultraplus.com)  
-🔹 **Dashboard:** [https://dash.skyultraplus.com](https://dash.skyultraplus.com)  
+🐾 ¿Qué es PerroBot-MD?
 
-⊱⋅ ──────────── ⋅⊰  
+PerroBot-MD es un bot divertido y leal, diseñado para hacer que tus grupos de WhatsApp sean más dinámicos.
+Incluye juegos temáticos de perros, herramientas de moderación avanzada, descargas y mucho más.
 
-## 👑 **Creador y colaboradores**  
+🐕 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞𝐬𝐭𝐚𝐜𝐚𝐝𝐚𝐬:
 
-💻 **𝐃𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐚𝐝𝐨𝐫 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥:**  
-- 👑 **Russell XZ** (Creador de Azura Ultra 2.0 Bot)  
+⊱⋅ ──────────── ⋅⊰
+🎾 Juegos Perrunos 🦴
+✔️ Adopta tu propio cachorro 🐕
+✔️ Entrénalo para misiones 🎯
+✔️ Compite en carreras de perros 🏁
+✔️ Juega al frisbee con comandos interactivos
 
-🤖 **𝐂𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐝𝐨𝐫𝐞𝐬:**  
-- 🔹 [DIEGO-OFC](https://github.com/DIEGO-OFC)  
-- 🔹 [Eliasar54](https://github.com/Eliasar54)  
+⊱⋅ ──────────── ⋅⊰
+🐾 Funciones de Grupo 🏡
+✔️ Protección contra intrusos 🛡️
+✔️ Diversión asegurada con memes de perros 🐶😂
+✔️ Descargas rápidas y herramientas útiles 📲
 
-📢 **¡Gracias por su apoyo en el desarrollo de este increíble bot!** 🚀  
+≪━─━─━─━─🐾─━─━─━─━≫
 
-⊱⋅ ──────────── ⋅⊰  
+Este bot no muerde, solo ayuda 🐕💙. ¡Añádelo a tu grupo y diviértete con PerroBot-MD!
 
-## 🎯 **Contribuir y soporte**  
-Si deseas contribuir al desarrollo del bot, reportar errores o sugerir mejoras, ¡puedes hacerlo en este mismo repositorio!  
+Creador: SoyMaycol
 
-📌 **¿Tienes dudas?**  
-- **Abrir un Issue en GitHub**  
-- **Contáctame en Sky Ultra Plus Hosting**  
+≪━─━─━─━─🐾─━# 🐶 PerroBot-MD 🐶
 
-📢 **¡Únete a la revolución con Azura Ultra 2.0 y haz que tu grupo de WhatsApp sea épico!** 🚀  
+🔥 El mejor compañero perruno para grupos de WhatsApp: con juegos, moderación y más.
 
-≪━─━─━─━─◈─━─━─━─━≫  
-✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
-≪━─━─━─━─◈─━─━─━─━≫
+≪━─━─━─━─🐾─━─━─━─━≫
+🐕 » 🦴 « 🐩 » 🐶 « 🐕 » 🦴 « 🐩
+≪━─━─━─━─🐾─━─━─━─━≫
 
+<p align="center">
+  <img src="https://i.postimg.cc/FHyQjzY4/4-sin-t-tulo-20250331223051.png" alt="PerroBot-MD" width="500"/>
+</p>
 
-⚡PASOS PARA TERMUX (ANDROID)✨️
+≪━─━─━─━─🐾─━─━─━─━≫
+🐕 » 🦴 « 🐩 » 🐶 « 🐕 » 🦴 « 🐩
+≪━─━─━─━─🐾─━─━─━─━≫
 
-# 1️⃣ Actualiza paquetes e instala dependencias necesarias
-pkg update && pkg upgrade -y && pkg install nodejs git -y
+🐾 ¿Qué es PerroBot-MD?
 
-# 2️⃣ Clona el repositorio del bot desde GitHub
-git clone https://github.com/russellxz/AZURA-ULTRA-2.0-BOT.git
+PerroBot-MD es un bot divertido y leal, diseñado para hacer que tus grupos de WhatsApp sean más dinámicos.
+Incluye juegos temáticos de perros, herramientas de moderación avanzada, descargas y mucho más.
 
-# 3️⃣ Entra al directorio del bot
-cd AZURA-ULTRA-2.0-BOT
+🐕 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞𝐬𝐭𝐚𝐜𝐚𝐝𝐚𝐬:
 
-# 4️⃣ Instala todos los módulos necesarios
-npm install
+⊱⋅ ──────────── ⋅⊰
+🎾 Juegos Perrunos 🦴
+✔️ Adopta tu propio cachorro 🐕
+✔️ Entrénalo para misiones 🎯
+✔️ Compite en carreras de perros 🏁
+✔️ Juega al frisbee con comandos interactivos
 
-# 5️⃣ Inicia el bot
-npm start
+⊱⋅ ──────────── ⋅⊰
+🐾 Funciones de Grupo 🏡
+✔️ Protección contra intrusos 🛡️
+✔️ Diversión asegurada con memes de perros 🐶😂
+✔️ Descargas rápidas y herramientas útiles 📲
+
+≪━─━─━─━─🐾─━─━─━─━≫
+
+Este bot no muerde, solo ayuda 🐕💙. ¡Añádelo a tu grupo y diviértete con PerroBot-MD!
+
+Creador: SoyMaycol
+
+≪━─━─━─━─🐾─━─━─━─━≫
+
+# Instalación 🤓
+
+1. Descarga Replit
+
+2. Haz remix a esta Replit
+https://replit.com/@sofiasamir191/PerroBot-MD?s=app
+
+3. Al estar dentro ve a la Carpetas y borra Sessions y lo creas de nuevo
+
+4. Inicias el bot y Disfruta el Bot Perruno!
+
+⚠️ ADVERTENCIA: Pronto hare que se vean los archivos del bot en replit pero por ahora no.
+
+---
+─━─━─━≫
+
+# Instalación 🤓
+
+1. Descarga Replit
+
+2. Haz remix a esta Replit
+https://replit.com/@sofiasamir191/PerroBot-MD?s=app
+
+3. Al estar dentro ve a la Carpetas y borra Sessions y lo creas de nuevo
+
+4. Inicias el bot y Disfruta el Bot Perruno!
+
+⚠️ ADVERTENCIA: Este fue bot se utilizo de Base AzuraBotUltra.
+
+---
