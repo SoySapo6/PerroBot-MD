@@ -54,19 +54,3 @@ https://replit.com/@sofiasamir191/PerroBot-MD?s=app
 ⚠️ ADVERTENCIA: Pronto hare que se vean los archivos del bot en replit pero por ahora no.
 
 ---
-─━─━─━≫
-
-# Instalación 🤓
-
-1. Descarga Replit
-
-2. Haz remix a esta Replit
-https://replit.com/@sofiasamir191/PerroBot-MD?s=app
-
-3. Al estar dentro ve a la Carpetas y borra Sessions y lo creas de nuevo
-
-4. Inicias el bot y Disfruta el Bot Perruno!
-
-⚠️ ADVERTENCIA: Este fue bot se utilizo de Base AzuraBotUltra.
-
----
