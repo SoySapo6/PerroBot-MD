@@ -4213,11 +4213,16 @@ case 'menu': {
     });
 
     const chatId = msg.key.remoteJid;
+    
+    // Obtener imagen aleatoria de perro
+    const dogResponse = await fetch('https://dog.ceo/api/breeds/image/random');
+    const dogData = await dogResponse.json();
+    const dogImage = dogData.message;
 
     // Diseño original con letra más pequeña y ajustado para WhatsApp
     const captionText = `╔═══════════════╗  
-║   𝐀𝐙𝐔𝐑𝐀 𝐔𝐋𝐓𝐑𝐀 𝟐.𝟎   ║  
-║   🤖 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝙏𝙀 🤖   ║  
+║   𝐏𝐄𝐑𝐑𝐎𝐁𝐎𝐓-𝐌𝐃   ║  
+║   🐕 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝙏𝙀 🐕   ║  
 ╚═══════════════╝  
 
 ╭──────────────╮  
@@ -4301,8 +4306,7 @@ case 'menu': {
 
     // Enviar el video como GIF con el menú
     await sock.sendMessage(chatId, {
-      video: { url: "https://cdn.dorratz.com/files/1740370321585.mp4" },
-      gifPlayback: true, // Se envía como GIF
+      image: { url: dogImage },
       caption: captionText
     }, { quoted: msg });
 
