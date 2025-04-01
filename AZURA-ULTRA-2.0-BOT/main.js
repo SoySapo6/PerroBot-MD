@@ -640,9 +640,9 @@ case 'play2': {
 ┣ 🎥 *Video:* _${global.prefix}play6 ${text}_
 ┗ ⚠️ *¿No se reproduce?* Usa _${global.prefix}ff_
 
-⏳ *Procesado por Azura Ultra 2.0*
+⏳ *Procesado por PerroBot*
 ═════════════════════  
-        𖥔 Azura Ultra 2.0 Bot 𖥔
+        𖥔 PerroBot-MD 𖥔
 ═════════════════════`;
         
         await sock.sendMessage(msg.key.remoteJid, {
